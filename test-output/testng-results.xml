@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+      <class name="com.testing.features.Parallel_concepts">
+        <test-method status="PASS" signature="username()[pri:0, instance:com.testing.features.Parallel_concepts@cb51256]" name="username" duration-ms="7" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- username -->
+        <test-method status="PASS" signature="repassword()[pri:0, instance:com.testing.features.Parallel_concepts@cb51256]" name="repassword" duration-ms="7" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repassword -->
+        <test-method status="PASS" signature="password()[pri:0, instance:com.testing.features.Parallel_concepts@cb51256]" name="password" duration-ms="7" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="signout()[pri:0, instance:com.testing.features.Parallel_concepts@cb51256]" name="signout" duration-ms="7" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signout -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.testing.features.Parallel_concepts@cb51256]" name="signin" duration-ms="7" started-at="2022-04-06T23:05:47 IST" finished-at="2022-04-06T23:05:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- com.testing.features.Parallel_concepts -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
